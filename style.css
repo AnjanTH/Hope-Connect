@@ -549,11 +549,15 @@ main{
     .box2{
         width: 100%;
     }
+    .third{
+        left:30px;
+    }
 }
 
 @media (max-width:346px) {
     .third {
         right: 20px;
+        left:20px;
     }
 
     .third p {
